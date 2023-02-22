@@ -1,0 +1,272 @@
+body{
+    margin: 0;
+}
+
+.navContainer{
+ 
+display: flex;
+flex-direction: row;
+height: 60px;
+left: 0px;
+top: 0px;
+
+background: white;
+}
+
+.bigRectangle1{
+    height: 948px;
+
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+/* background: red; */
+text-align: center;
+background-image: url("../images/sunset.jpg");
+
+}
+
+.bigRectangle2{
+    height: 800px;
+
+left: 0px;
+top: 1020px;
+border-radius: 0px;
+
+background: white;
+
+}
+
+.smallRectangle1{
+    height: 600px;
+
+left: 0px;
+top: 1968px;
+border-radius: 0px;
+
+background: white;
+
+display: flex;
+flex-direction: row;
+
+}
+
+.smallRectangle2{
+    height: 600px;
+
+left: 0px;
+top: 1968px;
+border-radius: 0px;
+
+background: white;
+
+display: flex;
+flex-direction: row;
+
+}
+
+.footer{
+    height: 250px;
+width: 1680px;
+left: 3px;
+top: 3196px;
+border-radius: 0px;
+background-color: white;
+}
+
+.logo{
+    height: 32px;
+/* width: 122.07408905029297px; */
+left: 80px;
+top: 14px;
+border-radius: 0px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: 50px;
+
+
+}
+
+.list{
+    
+    flex-direction: row;
+    list-style-type: none;
+
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+display: flex;
+align-items: center;
+justify-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+/* Actionable Item */
+
+color: #18A0FB;
+margin-right: 900px;
+
+}
+
+.listItem{
+    padding: 20px;;
+}
+
+.navButton1, .navButton2{
+    height: 40px;
+width: 130px;
+left: 0px;
+margin-top: auto;
+margin-bottom: auto;
+border-radius: 6px;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+
+.navButton1{
+    background-color: white;
+    border-color: #18A0FB;
+    color: #18A0FB;
+}
+
+.navButton2{
+    background-color: #18A0FB;
+    border-color: #18A0FB;
+    color: white;
+}
+
+.bigpara{
+margin-top: 0;
+padding-top: 600px;
+font-size: 60px;
+}
+
+.bigRectSubDiv1{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 80px;
+    
+}
+.bigRectSubDiv2{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 100px;
+}
+.bigRectSubDiv{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.bigrect2title{
+    font-size: 40px;
+    width: 30%;
+    padding:0 75px;
+    padding-top: 75px;
+}
+
+.bigrect2subtitle{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.bigrect2button{
+    height: 40px;
+width: 130px;
+left: 0px;
+margin-top: auto;
+margin-bottom: auto;
+border-radius: 6px;
+
+background-color: white;
+    border-color: #18A0FB;
+    color: #18A0FB;
+}
+
+.bigrect2para{
+    font-size: 18px;
+}
+
+.smallrectimage{
+    height: 440px;
+width: 750px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+margin: auto;
+
+}
+
+
+.smallrectsubdiv11{
+    margin: auto;
+    margin-left: 100px;
+}
+
+.smallrectsubdiv22{
+    margin: auto;
+    margin-right: 100px;
+}
+
+.smallrectsubdiv12{
+    margin: auto;
+}
+
+.smallrectsubdiv21{
+    margin: auto;
+}
+
+.smallrectsubtext{
+    width:70%;
+}
+
+.divdiv1{
+    margin: auto;
+    margin-left: 100px;
+}
+
+.divdiv2{
+    margin: auto;
+    margin-left: 100px;
+}
+
+.smallrecttext1, .smallrecttext2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.mobapp{
+    margin-left: 400px;;
+}
+
+.list2{
+    
+    flex-direction: row;
+    list-style-type: none;
+
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+display: flex;
+align-items: center;
+justify-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+/* Actionable Item */
+
+color: black;
+margin-right: 900px;
+
+}
+
+.helpdsk{
+    margin-left: 50px;
+}
